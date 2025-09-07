@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+* { box-sizing: border-box; }
+body { margin: 0; min-height: 100vh; }
+#root { min-height: 100vh; }
+
+/* soft gradient background */
+body { background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 50%, #fff 100%); }
+.dark body { background: linear-gradient(180deg, #0b1020 0%, #101530 50%, #0b1020 100%); color: #e5e7eb; }
+.dark .bg-white { background-color: #111827; }
+.dark .text-gray-500 { color: #9ca3af; }
+.dark .shadow { box-shadow: 0 10px 15px -3px rgba(0,0,0,0.6), 0 4px 6px -2px rgba(0,0,0,0.5); }
+
+
+ 
