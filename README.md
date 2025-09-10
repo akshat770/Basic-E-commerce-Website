@@ -1,6 +1,6 @@
 # E‑Commerce (React + Vite + Tailwind | Node.js + Express + MongoDB)
 
-Modern full‑stack e‑commerce app. Frontend provides authentication, product listing with filters, cart with persistence, INR pricing, dark/light theme. Backend exposes secure REST APIs with JWT auth and MongoDB.
+Modern full‑stack e‑commerce app. Frontend provides authentication, product listing with filters, cart with persistence, INR pricing. Backend exposes secure REST APIs with JWT auth and MongoDB.
 
 ## Monorepo Layout
 
